@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-954f3802da0df4d8218308243689991919abeb49.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-2d975c53539d0033e8b3bd8c65c7fc30f7347702.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-6eb8d5ab51d676259c6452514fad791872043b2d.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-19df58eac7fb9727a83532adba02ea5f7b136db4.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-4a54ba49af5ec49cfdb74dcb5f333ab688451ef9.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-230b258c62962c15c229fb572394ca92ec977d35.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-fd4b1659a66a08db798f5aa620db80a01c42f515.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-d1aef9b5420d5fae1e45e6c7fb77cdbb43dce992.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-43168bea248649d7fd946abf7731f2b969c09fa1.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-863c1274a455efff74136adba1d8b61ee7aa6308.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-b7f8d54365de068f3272d95f2b7a1183a303e70a.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-04546378f2409b482a39a76ace28c7bf2068deda.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-67bbdae7f9ed8287c8ce2e6e74d3d1474fdda34f.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-168bdb90df76feca20cfede3817e37e638c99d22.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-f47693fbd106b140ebc43c94ebfe346af99bc695.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-e2613aaad24876eed2960f78ad5ee92a4fe0a145.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-a5b9ba38e7831df9091a70e0fbf620ed5f821655.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-4ff7c2cec14bd9c35fa7223380f40473896d6132.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-b951152dc729386d52a840006fabe6ec4a81c2aa.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-1ef20e6049607c6e01f079358608da3661077826.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-16fd9a2bcc80a2f7e751d22632fdb84fa9ae7bd9.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-c44cdd4517895a86534638fd12318e2d44f1f2e4.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-7e7eaf24c99e2aed3f5ff6399aadd47f0ec01870.jar" />
+    </item>
+    <item
+        jar="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/home/mikedmor/AndroidStudioProjects/ProjectTap/app/build/intermediates/pre-dexed/debug/classes-9d24f20f6441efbc7770e3fd6bb52ad7a11ff923.jar" />
+    </item>
+
+</items>

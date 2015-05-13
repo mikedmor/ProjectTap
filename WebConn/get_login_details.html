@@ -1,0 +1,86 @@
+<?php
+ 
+/*
+ * Following code will get single product details
+ * A product is identified by product id (pid)
+ */
+ 
+// array for JSON response
+$response = array();
+ 
+// include db connect class
+require_once __DIR__ . '/db_connect.php';
+ 
+// connecting to db
+$db = new DB_CONNECT();
+ 
+// check for post data
+if (isset($_GET["username"]) && isset($_GET['password'])) {
+    $username = $_GET['username'];
+    $password = $_GET['password'];
+
+    //
+ 
+    // get account with that name
+    $result = mysql_query("SELECT * FROM accounts WHERE username = $username");
+
+ 
+    if (!empty($result)) {
+        // check for empty result
+        if (mysql_num_rows($result) > 0) {
+ 
+            $result = mysql_fetch_array($result);
+ 
+            $account = array();
+            $account["pid"] = $result["pid"]; //id
+            $account["username"] = $result["username"];
+            $account["email"] = $result["email"];
+            $account["birthday"] = $result["birthday"];
+            $account["salt"] = $result["salt"];
+
+            //Check that the encrypted password + salt matches the saved password
+            if(/*sha512 encryption*/($salt.$password)==$result["password"]){
+                //then this is the correct user
+                    // success
+                $response["success"] = 1;
+     
+                // user node
+                $response["account"] = array();
+     
+                array_push($response["account"], $account);
+     
+                // echoing JSON response
+                echo json_encode($response);
+            }else{
+                //the password is not correct (fail back to login)
+                $response["success"] = 0;
+                $response["message"] = "Password for $username is incorrect";
+
+                echo json_encode($response);
+            }
+            
+        } else {
+            // no product found
+            $response["success"] = 0;
+            $response["message"] = "Account $username doesn't exist";
+ 
+            // echo no users JSON
+            echo json_encode($response);
+        }
+    } else {
+        // no product found
+        $response["success"] = 0;
+        $response["message"] = "Account $username doesn't exist";
+ 
+        // echo no users JSON
+        echo json_encode($response);
+    }
+} else {
+    // required field is missing
+    $response["success"] = 0;
+    $response["message"] = "Required field(s) is missing";
+ 
+    // echoing JSON response
+    echo json_encode($response);
+}
+?>

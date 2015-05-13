@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Project Tap</string>
+<!-- TODO: Decide final name for application: Community;  -->
+    <string name="userid">Username</string>
+    <string name="password">Password</string>
+    <string name="conpassword">Confirm Password</string>
+    <string name="register_button">Register</string>
+    <string name="login_button">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="rememberMe">Remember me</string>
+
+    <string name="regemail">Email (Optional)</string>
+    <string name="regbirth">Birthday (Optional)</string>
+    <string name="pick_date">Birthday (Optional)</string>
+
+    <string name="OK">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="welcome_msg">Login to Project Tap to see what is going on around you, or signup for a Project Tap account.</string>
+    <string name="register_msg">Welcome to Project Tap registration. Please fill out the required information below to create your account and get started.</string>
+
+
+    <string name="action_Manual_Friend">Manually Add Friend</string>
+    
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_registration">Register</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="title_section1">Connections</string>
+    <string name="title_section2">Chat</string>
+    <string name="title_section3">Profile</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="explanation">NFC Working!</string>
+
+    <string name="PWelcome">Welcome to your User Profile. Currently there is no way to input this data, so this will remain empty until the profile editor tools are complete. Check back in a later version for Profile capabilities, hope you\'re enjoying the application!</string>
+
+    <string-array name="test_array">
+        <item>Connection Username 1</item>
+        <item>Connection Username 2</item>
+        <item>Connection Username 3</item>
+        <item>Connection Username 4</item>
+        <item>Connection Username 5</item>
+        <item>Connection Username 6</item>
+        <item>Connection Username 7</item>
+    </string-array>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+    <integer name="config_slide_time">1</integer>
+</resources>
